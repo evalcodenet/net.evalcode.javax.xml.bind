@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="bin/test/classes" path="src/test/java"/>
+	<classpathentry kind="lib" path="lib/standalone/guava-r09.jar"/>
+	<classpathentry kind="lib" path="lib/standalone/jackson-core-asl-1.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/standalone/jackson-mapper-asl-1.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/standalone/jackson-xc-1.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/standalone/javax.inject.jar"/>
+	<classpathentry kind="lib" path="lib/test/org.junit.jar"/>
+	<classpathentry kind="lib" path="lib/test/org.mockito.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,7 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: net.evalcode.javax.xml.bind
+Bundle-SymbolicName: net.evalcode.javax.xml.bind
+Bundle-Version: 1.0.0
+Bundle-Vendor: evalcode.net
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: net.evalcode.javax.xml.bind
